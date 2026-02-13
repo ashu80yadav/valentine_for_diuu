@@ -165,8 +165,8 @@ return (
       
       <div className="flex justify-center gap-4 mb-6">
           {/* Make sure these files exist in your /public folder */}
-          <img src="/cats1.gif" alt="cats" className="w-24 h-24 rounded-lg shadow-md border-2 border-white" />
-          <img src="/cats2.gif" alt="cats" className="w-24 h-24 rounded-lg shadow-md border-2 border-white" />
+          <img src="/cats1.GIF" alt="cats" className="w-24 h-24 rounded-lg shadow-md border-2 border-white" />
+          <img src="/cats2.GIF" alt="cats" className="w-24 h-24 rounded-lg shadow-md border-2 border-white" />
       </div>
       <h3 className="text-xl font-bold text-pink-600">Now you're stuck with me forever ∞</h3>
 
